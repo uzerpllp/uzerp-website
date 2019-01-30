@@ -1,0 +1,5 @@
+weight: 1
+name: "Manage Stock"
+icon: "fa fa-industry"
+color: "purple"
+description: "Keep cash in the bank and out of the warehouse."

@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+
+  {{ partial "head.html" . }}
+
+  <body>
+
+    <div id="all">
+
+        <header>
+
+          {{ partial "top.html" . }}
+
+          {{ partial "nav.html" . }}
+
+        </header>
+
+        <section id="leader" class="bar background-image-fixed-containers no-mb color-white">
+            <div class="dark-mask darker-mask"></div>
+                <div class="container">
+                    <div class="row justify-content-end">
+                        <div class="col-md-4">
+		                    <h3 class="lead">Accelerate Your Growing&nbsp;Business</h3>
+		                    <p class="lead">uzERP is a suite of business
+		                    software that delivers big
+		                    company functionality on a small
+		                    company budget, including accounting, stock, manufacturing and more.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        
+        {{ partial "carousel.html" . }}
+            
+        {{ partial "teaser.html" . }}
+
+        {{ partial "features.html" . }}
+
+        {{ partial "testimonials.html" . }}
+
+        {{ partial "see_more.html" . }}
+
+        {{ partial "recent_posts.html" . }}
+
+        {{ partial "clients.html" . }}
+
+        {{ partial "footer.html" . }}
+
+    </div>
+    <!-- /#all -->
+
+    {{ partial "scripts.html" . }}
+
+  </body>
+</html>

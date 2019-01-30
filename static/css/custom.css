@@ -1,0 +1,171 @@
+.bar.background-image-fixed-containers {
+  background: url('/img/containers.jpg') center top no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.bar.background-image-fixed-2 {
+  background: url('/img/containers.jpg') center bottom no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.bar .darker-mask {
+    opacity: 0.5;
+}
+
+h2.lead, h3.lead {
+    font-weight: 300;
+    font-size: 3em;
+}
+
+#leader .lead {
+    text-shadow: 1px 1px 2px #000;
+}
+
+#teaser .container .icon {
+    border: none;
+}
+
+#teaser .container .icon .fa {
+    font-size: 5em;
+}
+
+#features .container .icon {
+    font-size: 45px;
+}
+
+.icon.blue {
+    color: #fff;
+    background: #83AFE5;
+    border: none;
+}
+
+.icon.green {
+    color: #fff;
+    background: #A8CE93;
+    border: none;
+}
+
+.icon.purple {
+    color: #fff;
+    background: #9A93E1;
+    border: none;
+}
+
+.icon.orange {
+    color: #fff;
+    background: #F2C38F;
+    border: none;
+}
+
+.icon.jade {
+    color: #fff;
+    background: #38a7bb;
+    border: none;
+}
+
+.icon.green {
+    color: #fff;
+    background: #A8CE93;
+    border: none;
+}
+
+.box-simple p {
+    color: #000;
+    font-size: 1.2em;
+}
+
+.btn-template-cta {
+  color: #ffffff;
+  background-color: #38a7bb;
+  border-color: #38a7bb;
+}
+
+.box-simple:hover .modal-header .icon {
+    transform:none;
+}
+
+.modal-header .icon {
+    float: left;
+    
+}
+
+.modal-header h3 {
+    float: left;
+    margin-top: 26px;
+    margin-left: 20px;
+}
+
+.modal-content {
+  border-radius: 0;
+}
+
+.modal-body {
+  text-align: left;
+}
+
+.modal-footer {
+    color: #fff;
+    background: #38a7bb;
+}
+
+.modal-footer p {
+    color: #fff;
+}
+
+.modal-footer a {
+    color: #fff;
+}
+
+.modal-footer .links {
+    float: left;
+    text-align: left;
+}
+
+.modal-footer .learn-more {
+    color: #a3e5f1;
+}
+
+.modal-body h4 {
+       margin-top: 20px;
+       margin-bottom: 20px;
+}
+
+.modal.fade .modal-dialog {
+  -webkit-transform: translate(0, 0);
+  -ms-transform: translate(0, 0);
+  transform: translate(0, 0);
+  -webkit-transition: -webkit-transform 0.3s ease-out;
+  -moz-transition: -moz-transform 0.3s ease-out;
+  -o-transition: -o-transform 0.3s ease-out;
+  transition: transform 0.3s ease-out;
+}
+
+.box-simple a:focus{
+    outline:none!important;
+}
+
+.home-carousel .dark-mask {
+    background: #c74915;
+}
+
+.home-carousel h1 {
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 28px;
+    letter-spacing: 0.08em;
+}
+
+.home-carousel ul, .home-carousel p {
+    font-size: 18px;
+    padding: 0;
+    text-transform: none;
+}
+
+@media (min-width: 1400px) {
+    .modal-dialog {
+        width: 50%;
+        margin: 30px auto;
+    }
+}

@@ -1,0 +1,36 @@
+{{ if isset .Site.Params "carousel" }}
+{{ if .Site.Params.carousel.enable }}
+{{ if gt (len .Site.Data.carousel) 0 }}
+<section>
+    <div class="home-carousel">
+        <div class="dark-mask"></div>
+        <div class="container">
+            <div class="homepage owl-carousel">
+                {{ range $index, $element := sort .Site.Data.carousel "weight" }}
+          		{{ if eq (mod $index 2) 0 }}
+                <div class="item">
+                
+                    <div class="row">
+                {{ end }}
+                        {{ if eq (mod $index 2) 0 }}
+                        <div class="col-md-5 ">
+                        {{ else }}
+                        <div class="col-md-5 col-md-offset-1">
+                        {{ end }}
+                            <h1>{{ .title }}</h1>
+                            {{ .description | safeHTML }}
+                        </div>
+                    
+                {{ if or (eq (mod $index 2) 1) (eq $index (sub (len $.Site.Data.features) 1 )) }}
+			        </div>
+			    </div>
+                {{ end }}
+                {{ end }}
+            </div>
+            <!-- /.project owl-slider -->
+        </div>
+    </div>
+</section>
+{{ end }}
+{{ end }}
+{{ end }}

@@ -1,0 +1,37 @@
+{{ if isset .Site.Params "teaser" }}
+{{ if .Site.Params.teaser.enable }}
+{{ if gt (len .Site.Data.teaser) 0 }}
+<section id="teaser" class="bar background-gray no-mb">
+	<div class="container banner">
+	    <div class="col-md-12">
+        	<h2 class="lead">Why uzERP?</h2>
+	    </div>
+    </div>
+    <div class="container">
+        {{ range $index, $element := sort .Site.Data.teaser "weight" }}
+		{{ if eq (mod $index 3) 0 }}
+		<div class="col-md-12">
+            <div class="row">
+		{{ end }}
+				<div class="col-md-4">
+                    <div class="box-simple">
+                        <div class="icon">
+                            <i class="{{ .icon }}"></i>
+                        </div>
+                        <h3>{{ $element.name }}</h3>
+                        <p>{{ $element.description | markdownify }}</p>
+                    </div>
+                </div>
+		{{ if or (eq (mod $index 3) 2) (eq $index (sub (len $.Site.Data.features) 1 )) }}
+			</div>
+		</div>
+		{{ end }}
+        {{ end }}
+                		<p class="text-center">
+                    <a href="{{ .Site.Params.teaser.link_url }}" class="btn btn-template-cta btn-lg">{{ .Site.Params.teaser.link_text }}</a>
+                </p>
+    </div>
+</section>
+{{ end }}
+{{ end }}
+{{ end }}

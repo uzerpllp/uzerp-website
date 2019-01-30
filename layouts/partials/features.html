@@ -1,0 +1,68 @@
+{{ if isset .Site.Params "features" }}
+{{ if .Site.Params.features.enable }}
+{{ if gt (len .Site.Data.features) 0 }}
+<section id="features" class="bar background-white">
+	<div class="container banner">
+	    <div class="col-md-12">
+        	<h2 class="lead">uzERP provides real benefits for growing&nbsp;businesses</h2>
+	    </div>
+    </div>
+    <div class="container">
+        {{ range $index, $element := sort .Site.Data.features "weight" }}
+		{{ if eq (mod $index 3) 0 }}
+		<div class="col-md-12">
+            <div class="row">
+		{{ end }}
+				<div class="col-md-4">
+                    <div class="box-simple">
+                        <a href="#{{ $element.name | urlize }}"  data-toggle="modal" data-target="#{{ $element.name | urlize }}"><div class="icon  {{ .color }}">
+                            <i class="{{ .icon }}"></i>
+                        </div></a>
+                        <h3><a href="#{{ $element.name | urlize }}"  data-toggle="modal" data-target="#{{ $element.name | urlize }}">{{ $element.name }}</a></h3>
+                        <p>{{ $element.description | markdownify }}</p>
+                        {{ if $element.content }}
+                        <p><a href="#{{ $element.name | urlize }}"  data-toggle="modal" data-target="#{{ $element.name | urlize }}">
+                            Learn More
+                        </a></p>
+                        <div class="modal fade" id="{{ $element.name | urlize }}" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
+                          <div class="modal-dialog  container" role="document">
+                            <div class="modal-content">
+                              <div class="modal-header">
+                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                  <span aria-hidden="true">&times;</span>
+                                </button>
+                                <div class="icon  {{ .color }}">
+                                  <i class="{{ .icon }}"></i>
+                                </div>
+                                <h3>{{ $element.name }}</h3>
+                              </div>
+                              <div class="modal-body">
+                                {{ $element.content | markdownify }}
+                              </div>
+                              <div class="modal-footer">
+                                {{ if $element.links }}
+                                <div class="links">
+                                {{ range $link := $element.links }}
+                                
+                                <p class="learn-more">Learn more: <a href="{{ $link.url }}">{{ $link.name }}</a></p>
+                                {{ end }}
+                                </div>
+                                {{ end }}
+                                <button type="button" class="btn btn-small btn-template-main" data-dismiss="modal">Close</button>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        {{ end }}
+                    </div>
+                </div>
+		{{ if or (eq (mod $index 3) 2) (eq $index (sub (len $.Site.Data.features) 1 )) }}
+			</div>
+		</div>
+		{{ end }}
+        {{ end }}
+    </div>
+</section>
+{{ end }}
+{{ end }}
+{{ end }}
