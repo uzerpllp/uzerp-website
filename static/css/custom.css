@@ -146,8 +146,12 @@ h2.lead, h3.lead {
     outline:none!important;
 }
 
+.home-carousel {
+    background: url('/img/grid.jpg') center center repeat;
+}
+
 .home-carousel .dark-mask {
-    background: #c74915;
+    background: #818d8a;
 }
 
 .home-carousel h1 {
