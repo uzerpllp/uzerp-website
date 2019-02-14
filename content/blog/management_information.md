@@ -6,7 +6,7 @@ tags: ["Accounting","Reporting"]
 banner: "img/banners/rawpixel-983726-unsplash.jpg"
 ---
 
-uzERP Management Information can be provided in anumber of ways.
+uzERP Management Information can be provided in a number of ways.
 
 ## Online information from within the system
 

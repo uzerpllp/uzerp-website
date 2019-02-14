@@ -28,7 +28,7 @@ paginate = 10
 
 [[menu.main]]
     name = "Case Studies"
-    url  = "/case_studies/"
+    url  = "/studies/"
     weight = 3
 
 [[menu.main]]
@@ -127,7 +127,7 @@ paginate = 10
     search = true
 
 [params.carousel]
-    enable = true
+    enable = false
     # All carousel items are defined in their own files. You can find example items
     # at 'exampleSite/data/carousel'.
     # For more informtion take a look at the README.
