@@ -21,9 +21,7 @@
                         <h3><a href="#{{ $element.name | urlize }}"  data-toggle="modal" data-target="#{{ $element.name | urlize }}">{{ $element.name }}</a></h3>
                         <p>{{ $element.description | markdownify }}</p>
                         {{ if $element.content }}
-                        <p><a href="#{{ $element.name | urlize }}"  data-toggle="modal" data-target="#{{ $element.name | urlize }}">
-                            Learn More
-                        </a></p>
+                        
                         <div class="modal fade" id="{{ $element.name | urlize }}" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
                           <div class="modal-dialog  container" role="document">
                             <div class="modal-content">

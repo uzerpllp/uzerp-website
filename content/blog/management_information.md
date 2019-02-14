@@ -7,6 +7,7 @@ banner: "img/banners/rawpixel-983726-unsplash.jpg"
 ---
 
 uzERP Management Information can be provided in a number of ways.
+<!--more-->
 
 ## Online information from within the system
 

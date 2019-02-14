@@ -28,7 +28,7 @@ paginate = 10
 
 [[menu.main]]
     name = "Case Studies"
-    url  = "/studies/"
+    url  = "/studies/summary/"
     weight = 3
 
 [[menu.main]]
@@ -98,6 +98,7 @@ paginate = 10
     logo = "img/logo.png"
     address = """<p><strong>uzERP LLP</strong>
         <br>Showground Road,
+        <br>Severn Delta Building,
         <br>Bridgwater,
         <br>Somerset,
         <br>TA6 6AJ
@@ -105,15 +106,15 @@ paginate = 10
         <strong>Great Britain</strong>
       </p>
       """
-    latitude = "51.1098937"
-    longitude = "2.9921611"
+    #latitude = "51.1098937"
+    #longitude = "2.9921611"
 
 [Permalinks]
     blog = "/blog/:year/:month/:day/:filename/"
 
 # Enable or disable top bar with social icons
 [params.topbar]
-    enable = true
+    enable = false
     text = """<p class="hidden-sm hidden-xs">Contact us on 07976 953 698 or info@uzerp.com.</p>
       <p class="hidden-md hidden-lg"><a href="#" data-animate-hover="pulse"><i class="fa fa-phone"></i></a>
       <a href="#" data-animate-hover="pulse"><i class="fa fa-envelope"></i></a>
@@ -155,7 +156,7 @@ paginate = 10
     enable = true
     icon = "fa fa-info"
     title = "Take uzERP for a spin"
-    subtitle = "If you'd like to take a closer look there is an online uzERP demo - to log in use the following... Username: admin Password: admin"
+    subtitle = "Take a closer look at uzERP via the online Demo - to log in use the following... Username: admin Password: admin"
     link_url = "https://demo.uzerp.com/"
     link_text = "Go to Demo"
 

@@ -6,7 +6,9 @@ tags: ["Blog"]
 banner: "img/banners/aron-visuals-322314-unsplash.jpg"
 ---
 
-Back in June 2012 on our old site I posted a blog post about the longevity of uzERP......
+Back in June 2012 on our old site I posted a blog post about the longevity of __uzERP__
+
+<!--more-->
 
 >Those of you who have some knowledge of our history will know that uzERP was born as the EGS project started by Jake Stride (he’s on twitter @Jake) when he ran Senokian Solutions in Coventry.
 >
@@ -32,4 +34,4 @@ Back in June 2012 on our old site I posted a blog post about the longevity of uz
 >
 >Gosh… is it really that long?
 
-Well.... its 2019 and uzERp has been in development for 13 years and in production use for 10..... I must be old!
+Well.... its 2019 and __uzERP__ has been in development for 13 years and in production use for 10..... I must be old!

@@ -3,3 +3,27 @@ name: "Manage Stock"
 icon: "fa fa-industry"
 color: "purple"
 description: "Keep cash in the bank and out of the warehouse."
+content: >
+ #### Managing stock is managing money
+
+ In some senses the Stock (inventory) system is the heart of the commercial system if you are a manufacturer or wholesaler, since every aspect of the business will be related back to a stock item is some way.
+ 
+ The uzERP Stock module can be used to track all aspects of your organisation’s stock and work-in- progress - which means keeping you up to speed with where the money is!
+
+ #### uzERP can keep track of
+  *  Item master details
+
+ *  Item balances across warehouses/locations/bins
+
+ *  Stock movements
+
+ *  Units of measure (e.g. how may packs in a case)
+
+ *  Product structures and routes for manufactured and sub-contracted items
+
+ *  Links to works orders, sales orders and purchase orders
+
+
+ #### Custom workflow
+
+ It is possible to map the relationships between stores and locations within each organisation to produce a view of how stock moves between them and therefore through the business.

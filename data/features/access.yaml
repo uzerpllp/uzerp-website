@@ -3,3 +3,13 @@ name: "Access Everywhere"
 icon: "fa fa-cloud"
 color: "jade"
 description: "Access from anywhere with uzERP in the cloud or on-premises installation."
+content: >
+  #### Web based
+
+  Being a web app you can see the information you need from wherever
+
+  Easy to add satellite offices
+
+  #### Integration
+
+  Opens ource database allows us to connect up spreadsheets and browser/app based reporting.
