@@ -4,24 +4,21 @@ icon: "fa fa-star"
 color: "orange"
 description: "Big company features for a small business budget."
 content: >
- #### Why uzERP
-
- uzERP is an Open Source modular business system designed for Small and Medium sized Enterprises (SME). 
+ #### Open Source
  
- The system includes functionality that touches every business function
+  Built using open source tools, uzERP is a suite of business software that delivers big company functionality on a small company budget. With no
+ upfront license costs you only pay for the implementation and support you require - therefore running your business with uzERP puts you in
+ control of the cost.
 
-  *  “Order to cash” processing for both the sales and purchase processes including trade counter operations
+ #### Designed for all businesses... that just happen to be small
+ 
+ The lead designers on the uzERP team include experienced directors of SME manufacturing businesses, in addition to accountancy and IT professionals.
+ uzERP was designed and built inside a SME manufacturing business, and supports Make-to-Stock, Make-to-Order and Process environments but is equally 
+ suited to Service Businesses.
+
+ Don't bee fooled, though - uzERP can scale to be as big as you want!
   
-  *  Manufacturing execution and shop floor data collection
- 
- *  Stock Management with multi location Warehousing
- 
- *  Financial Ledgers – Sales, Purchase and General Ledger plus Cash Book
-
- * HR module
- 
- *  Innovative drag and drop report writer
- 
 
 
- The Open Source nature of uzERP means that a business can implement modules that are applicable to their environment. Since the software itself is essentially free, organisations can implement uzERP in a phased way without the ‘big bang’ approach needed to get a quick payback from traditional upfront license fees.
+
+

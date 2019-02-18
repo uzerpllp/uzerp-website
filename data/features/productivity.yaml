@@ -4,26 +4,20 @@ icon: "fa fa-line-chart"
 color: "green"
 description: "Work more efficiently with standardized business processes and information."
 content: >
- #### Managing stock is managing money
-
- In some senses the Stock (inventory) system is the heart of the commercial system if you are a manufacturer or wholesaler, since every aspect of the business will be related back to a stock item is some way.
  
- The uzERP Stock module can be used to track all aspects of your organisation’s stock and work-in- progress - which means keeping you up to speed with where the money is!
+ #### Information for everyone
 
- #### uzERP can keep track of
-  *  Item master details
-
- *  Item balances across warehouses/locations/bins
-
- *  Stock movements
-
- *  Units of measure (e.g. how may packs in a case)
-
- *  Product structures and routes for manufactured and sub-contracted items
-
- *  Links to works orders, sales orders and purchase orders
+ Because uzERP is fully integrated the system provides a "Single source of truth" meaning that each department is basing decisions on 
 
 
- #### Custom workflow
 
- It is possible to map the relationships between stores and locations within each organisation to produce a view of how stock moves between them and therefore through the business.
+ #### User Interface
+
+ Personal customization of individual dashboards puts the core functionality required by each user no more than a click away, speeding work flow and
+ aiding productivity. 
+
+ 
+ uzERP's clutter free work space combines with list based displays to provide a familiar “spreadsheet like” interface to data which is cosistent across all miodules.
+ Context sensitive sidebars can be configured by user or role to provide access to more information or extra operations as required.
+ 
+

@@ -1,6 +1,7 @@
 ---
 title: "Welcome"
-date: 2019-02-09T17:33:50Z
+draft: "false"
+date: 2019-02-01
 categories: ["General"]
 tags: ["Blog"]
 banner: "img/banners/rawpixel-617391-unsplash.jpg"

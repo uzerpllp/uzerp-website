@@ -21,10 +21,10 @@ Which means you can talk to a human rather than filling in  a form.
 
 <br><br><br>
 
-#### Other ways keep up to speed or get in touch
+#### Other ways to keep up to speed or get in touch
 
 *  <i class="fa fa-github fa-lg"></i> &nbsp;   &nbsp; If you are a developer you can fork us on [github](https://github.com/uzerpllp/uzerp)
 
-*  <i class="fa fa-rss fa-lg"></i> &nbsp;   &nbsp; There's an [RSS feed](/rss) of blog posts and things
+*  <i class="fa fa-rss fa-lg"></i> &nbsp;   &nbsp; There's an [RSS feed](/feed.xml) of blog posts and things
 
 *   <i class="fa fa-twitter fa-lg"></i> &nbsp;   &nbsp;  And finally, if you like that sort of thing, then you could follow us on [twitter](https://twitter.com/uzerp) - interesting snippets assured

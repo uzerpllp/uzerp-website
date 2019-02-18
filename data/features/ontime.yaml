@@ -4,17 +4,28 @@ icon: "fa fa-truck"
 color: "blue"
 description: "Serve customers on-time, with the information needed available to all departments."
 content: >
- #### The customer IS King!
+ #### OTIF - the only measure your customers care about
 
-  The business environment for SMEs gets more challenging with each passing year - in today's environment On-Time and In-Full delivery - i.e. 100% customer service levels - are a given.
+ The business environment for SMEs gets more challenging with each passing year - in today's environment On-Time and In-Full (OTIF) delivery - i.e. 100% customer service 
+ levels - are what every customer has come to expect and anything less is a failure. 
+ uzERP gives visibilty of the status of purchase and sales orders and stock meaning customer service teams can organise delivery to customers' requirements.
 
- #### uzERP can keep track of
-  *  Outstanding orders
 
- *  Purchasing
+ #### uzERP keeps track of
+ 
+ 
+ * Outstanding orders for sales and purchasing
 
- *  Other stuff
 
- #### Custom workflow
+ * Overdue order reporting
 
- We can do
+
+ * Demand vs Supply from either purchasing or manufacturing 
+ 
+
+ * Customer service performance reporting 
+
+
+ #### Custom workflow and paperwork
+
+ uzERP can handle make to order, small/large batch, and make to forecast (flow) environments so you can retain your current workflow and paperwork.
