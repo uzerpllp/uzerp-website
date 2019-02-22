@@ -10,9 +10,9 @@ Below are summaries of three implementations - more detail on how uzERP was set 
 
 ## [Isedio Limited](../isedio)
 
-With sites in the UK and Australia, Isedio specialises in providing products for use in the casting of commercial and industrial concrete floors. The company has grown three-fold since uzERP was first implemented in 2015. Highlights are as follows:
+With sites in the UK and Australia, Isedio specialises in providing products for use in the casting of commercial and industrial concrete floors. The company has nearly doubled in size since uzERP was first implemented in October 2015. Highlights are as follows:
 
-* Used mainly in Logistics and Accounting to provide seamless and integrated managment of business processes;
+* Used mainly in Logistics and Accounting to provide seamless and integrated management of business processes;
 * The ability of uzERP to scale has allowed the company to grow significantly while implementing new functionality;
 * As a fully web based system remote users have full access to the information they need in a timely manner.
 
@@ -22,7 +22,7 @@ Severn Delta is Europe's largest supplier of private label laundry sheets and on
 
 * Fully integrated system providing end-end visibility from 'order to cash' for sales and purchases;
 * Manufacturing execution and multi-location logistics support to deliver 'day one for day three' delivery;
-* Integrated management information system providing 'corporate' style reporting across all business functions.
+* Integrated management information system providing corporate style reporting across all business functions.
 
 ## [Talon Engineering Limited](../talon)
 

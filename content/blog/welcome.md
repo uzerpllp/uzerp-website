@@ -1,10 +1,11 @@
 ---
 title: "Welcome"
 draft: "false"
-date: 2019-02-01
+date: 2019-03-01
 categories: ["General"]
-tags: ["Blog"]
+tags: ["Other"]
 banner: "img/banners/rawpixel-617391-unsplash.jpg"
+author: "Martyn Shiner"
 ---
 This is the first of what will be a series of blog posts on the new uzERP site.
 

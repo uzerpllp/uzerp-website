@@ -1,10 +1,11 @@
 ---
 title: "Is it really that long?"
 draft: "true"
-date: 2019-02-28
+date: 2019-03-04
 categories: ["General"]
-tags: ["Blog"]
+tags: ["Other"]
 banner: "img/banners/aron-visuals-322314-unsplash.jpg"
+author: "Martyn Shiner"
 ---
 
 Back in June 2012 on our old site I posted a blog post about the longevity of __uzERP__

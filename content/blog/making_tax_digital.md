@@ -5,6 +5,7 @@ date: 2019-03-15
 categories: ["Using uzERP"]
 tags: ["Accounting"]
 banner: "img/banners/rawpixel-670711-unsplash.jpg"
+author: "Martyn Shiner"
 ---
 
 uzERP is the only (as far as we are aware) Open Source system available that is compliant with the HMRC Making Tax Digital for VAT standard which must be used from 1st April 2019.

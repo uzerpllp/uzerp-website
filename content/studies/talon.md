@@ -12,7 +12,7 @@ In addition to motorcycle parts, Talon also manufacture high quality engineered 
 
 ## Sales and Logistics
 
-Initially Talon were looking for a solution to their order processing issues. 
+Initially Talon were looking for a solution to their order processing issues.
 
 Key features of the uzERP implementation:
 
@@ -29,7 +29,7 @@ A product selector module was developed allowing end-user applications (by manuf
 
 ## Accounting
 
-Talon uses the full suite of accounting applications and benefits from the tight inetgration with Sales and Purchasing workflows.
+Talon uses the full suite of accounting applications and benefits from the tight integration with Sales and Purchasing workflows.
 
 * Trade counter receipts by credit card are posted during order processing and captured in the accounting system to the correct merchant account.
 * Accurate Debtors and Creditors ledgers allow cash flow and business forecasting
