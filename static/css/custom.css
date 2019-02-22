@@ -1,3 +1,7 @@
+#contact.container ul{
+    list-style: none;
+}
+
 .bar.background-image-fixed-containers {
   background: url('/img/containers.jpg') center top no-repeat;
   background-attachment: fixed;
@@ -175,17 +179,20 @@ h2.lead, h3.lead {
 }
 
 #heading-breadcrumbs {
-    background: url('/img/grid.jpg') center center repeat;
+    background: linear-gradient(
+        rgba(20,20,20, .5), 
+        rgba(20,20,20, .5)),
+        url('/img/grid.jpg') center center repeat;
     padding: 20px 0;
     margin-bottom: 40px;
   }
  
 #heading-breadcrumbs h1 {
-    /* need a dark mask here so that text shows up*/
     color: #fff;
     text-align: center;
     text-transform: uppercase;
     font-size: 28px;
     font-weight: 700;
     letter-spacing: 0.08em;
+    text-shadow: 1px 1px 2px #000;
   }
