@@ -36,7 +36,7 @@ baseName = "feed"
 
 [[menu.main]]
     name = "Case Studies"
-    url  = "/studies/summary/"
+    url  = "/case-studies"
     weight = 3
 
 [[menu.main]]
