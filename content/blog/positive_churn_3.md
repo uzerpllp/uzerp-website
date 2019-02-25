@@ -4,7 +4,7 @@ draft: "true"
 date: 2019-04-22
 categories: ["Positive Churn"]
 tags: ["business", "costs"]
-banner: "img/banners/logo medium.png"
+banner: "img/banners/logo.svg"
 author: "Martyn Shiner"
 ---
 "Variable Labour Cost Does Not Exist"

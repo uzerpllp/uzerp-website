@@ -4,7 +4,7 @@ draft: "true"
 date: 2019-04-29
 categories: ["Positive Churn"]
 tags: ["business", "costs"]
-banner: "img/banners/logo medium.png"
+banner: "img/banners/logo.svg"
 author: "Martyn Shiner"
 ---
 "Don’t Let Your Overheads Grow Faster Than Your Business"

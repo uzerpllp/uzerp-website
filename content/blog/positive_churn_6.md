@@ -4,7 +4,7 @@ draft: "true"
 date: 2019-05-20
 categories: ["Positive Churn"]
 tags: ["Marketing"]
-banner: "img/banners/logo medium.png"
+banner: "img/banners/logo.svg"
 author: "Martyn Shiner"
 ---
 

@@ -2,6 +2,14 @@
 title: "Case Study - Severn Delta"
 date: 2019-02-09T19:41:37Z
 ---
+Severn Delta is Europe's largest supplier of private label laundry sheets and one of the UK’s leading manufacturers of retail quality wet wipes for all applications. Critical features of the implementation are:
+
+* Fully integrated system providing end-end visibility from 'order to cash' for sales and purchases;
+* Manufacturing execution and multi-location logistics support to deliver 'day one for day three' delivery;
+* Integrated management information system providing corporate style reporting across all business functions.
+
+<!--more-->
+
 ## About Severn Delta Limited
 
 Severn Delta's corporate beginnings, as a management buyout from a plc, meant they immediately required a level of integration and visibility unusual for an SME manufacturer.

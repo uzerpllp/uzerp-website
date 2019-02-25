@@ -2,11 +2,18 @@
 title: "Case Study - Talon"
 date: 2019-02-09T19:41:37Z
 ---
+Need high specification parts for your motorcycle? Then Talon Engineering are your go-to company.  uzERP supports this amazing operation in the following ways:
+
+* Fully integrated sales product selector allowing easy selection of items to match customer needs;
+* Full inbound and outbound logistics with company specific workflow;
+* Management information on-line directly from the uzERP database to monitor business performance.
+<!--more-->
+
 ## About Talon  Engineering Limited
 
 Talon Engineering has been in business for over 40 years and is still privately owned.
 
-Specialising in high specification motorcycle parts and having 75 world champions relying on their equipment, the company has a deserved reputation for excellence. With a large share of the business being for export, and a dizzying array of products, options and end-user applications, this is a complex and fast moving company working in a highly visible sector.
+Specialising in high specification, precision engineered motorcycle parts such as sprockets, hubs and wheels, and having 75 world champions relying on their equipment, the company has a deserved reputation for excellence. With a large share of the business being for export to countries in Europe, North America, The Far East and Australasia plus a dizzying array of products, options and end-user applications, this is a complex and fast moving company working in a highly visible sector.
 
 In addition to motorcycle parts, Talon also manufacture high quality engineered items for aerospace, automotive and general engineering applications to customer specifications.
 
