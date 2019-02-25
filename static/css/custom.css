@@ -14,6 +14,12 @@ h2 {
     width: 40%;
 }
 
+@media (max-width: 960px) {
+    .container.case-studies {
+        width: 80%;
+    }
+}
+
 .bar.background-image-fixed-containers {
   background: url('/img/containers.jpg') center top no-repeat;
   background-attachment: fixed;
@@ -212,3 +218,8 @@ h2.lead, h3.lead {
   #footer {
       margin-top: 50px;
   }
+
+  .index #footer {
+      margin-top: 0;
+  }
+

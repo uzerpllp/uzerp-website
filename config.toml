@@ -98,7 +98,7 @@ baseName = "feed"
     #email = "your@email.com"
 
     about_us = "<p>uzERP is an Open Source modular business system designed for Small and Medium sized Enterprises (SME).</p>"
-    copyright = "Copyright (c) 2019, uzERP LLP; all rights reserved."
+    copyright = "Copyright &copy; 2019 uzERP LLP, all rights reserved."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
@@ -148,7 +148,7 @@ baseName = "feed"
     # For more informtion take a look at the README.
     
 [params.teaser]
-    #enable = true
+    enable = false
     link_url = "#"
     link_text = "Learn More"
     
@@ -164,7 +164,7 @@ baseName = "feed"
     enable = true
     icon = "fa fa-info"
     title = "Take uzERP for a spin"
-    subtitle = "Take a closer look at uzERP via the online Demo - to log in use the following... Username: admin Password: admin"
+    subtitle = """Take a closer look at uzERP<br>Username: admin,  Password: admin"""
     link_url = "https://demo.uzerp.com/"
     link_text = "Go to Demo"
 

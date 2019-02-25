@@ -3,16 +3,11 @@
 
   {{ partial "head.html" . }}
 
-  <body>
-
+  <body class="index">
     <div id="all">
-
         <header>
-
           {{ partial "top.html" . }}
-
           {{ partial "nav.html" . }}
-
         </header>
 
         <section id="leader" class="bar background-image-fixed-containers no-mb color-white">
@@ -30,27 +25,16 @@
                 </div>
             </div>
         </section>
-        
         {{ partial "carousel.html" . }}
-            
         {{ partial "teaser.html" . }}
-
         {{ partial "features.html" . }}
-
         {{ partial "testimonials.html" . }}
-
-        {{ partial "see_more.html" . }}
-
         {{ partial "recent_posts.html" . }}
-
         {{ partial "clients.html" . }}
-
+        {{ partial "see_more.html" . }}
         {{ partial "footer.html" . }}
-
     </div>
     <!-- /#all -->
-
     {{ partial "scripts.html" . }}
-
   </body>
 </html>
