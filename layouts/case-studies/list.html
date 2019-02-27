@@ -43,7 +43,11 @@
                                         {{ end }}
                                     </p>
                                 </div>
+                                {{ if .Params.intro }}
+                                <p class="intro">{{ .Params.intro | markdownify }}</p>
+                                {{ else }}
                                 <p class="intro">{{ .Summary }}</p>
+                                {{ end }}
                                 <p class="read-more"><a href="{{ .Permalink }}" class="btn btn-template-main">{{ i18n "continueReading" }}</a></p>
                             </div>
                         </section>
