@@ -7,9 +7,8 @@ tags: ["business", "strategy"]
 banner: "img/banners/logo.svg"
 author: "Martyn Shiner"
 ---
-
 Way back in 2007 my business partner, Clive Birnie, started blogging about random business stuff that came into his head under the title __Positive Churn__. "Cathartic" was his take on the process.
-
+<!--more-->
 Many of the ideas he outlined came from both of our experiences running businesses prior to the Management Buyout of Severn Delta, which we had executed in 2003. In our previous lives we'd never had full authority to put them into practice, but once we were in total control we used the 'laboratory' that was our newly formed, and struggling, business to test many of our theories out.
 
 Given the many challenges we faced you could say it was the ultimate test of what we believed, and we were taking the phrase **"Put Your Money Where Your Mouth Is"** to its logical conclusion.
@@ -27,4 +26,4 @@ So, having found that the fundamental __"Rules"__ still apply, even after all th
 
 As a first step I'll be republishing some of Clive's original posts (abridged) over the next few weeks. From there I'll expand on some of the themes with more detailed posts.
 
-If the above, or any of the initial posts whet your appetite, and you think we we might be able to help you with some of your own challenges - then do please get in touch via the [Contacts Page](/contact/).
+If the above, or any of the initial posts whet your appetite, and you think we might be able to help you with some of your own challenges then do please get in touch via the [Contacts Page](/contact/).
