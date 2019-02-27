@@ -1,5 +1,10 @@
 ---
 title: "Case Study - Talon"
+intro: "Specialising in high specification motorcycle parts, Talon Engineering have a deserved reputation for excellence. With a large share of the business being for export, and a dizzying array of products, options and end-user applications, this is a complex and fast moving company working in a highly visible sector.
+
+
+uzERP supports critical workflows for Talon, initially around order processing and product selection against motorcycle applications, then taking in accounting, management information and advanced planning and scheduling.
+"
 date: 2019-02-09T19:41:37Z
 ---
 
