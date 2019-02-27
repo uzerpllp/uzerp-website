@@ -4,7 +4,7 @@ draft: "true"
 date: 2019-04-15
 categories: ["Positive Churn"]
 tags: ["business", "cash flow"]
-banner: "img/banners/logo medium.png"
+banner: "img/banners/logo.svg"
 author: "Martyn Shiner"
 ---
 

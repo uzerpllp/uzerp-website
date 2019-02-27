@@ -4,7 +4,7 @@ draft: "true"
 date: 2019-05-06
 categories: ["Positive Churn"]
 tags: ["business", "cash flow"]
-banner: "img/banners/logo medium.png"
+banner: "img/banners/logo.svg"
 author: "Martyn Shiner"
 ---
 "Cash IS King"

@@ -4,7 +4,7 @@ draft: "true"
 date: 2019-04-08
 categories: ["Positive Churn"]
 tags: ["business", "strategy"]
-banner: "img/banners/logo medium.png"
+banner: "img/banners/logo.svg"
 author: "Martyn Shiner"
 ---
 "You Can't Grow Your Way Out Of A Hole"
