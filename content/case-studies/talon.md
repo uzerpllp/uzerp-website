@@ -12,7 +12,7 @@ date: 2019-02-09T19:41:37Z
 
 Specialising in high specification motorcycle parts, Talon Engineering have a deserved reputation for excellence. With a large share of the business being for export, and a dizzying array of products, options and end-user applications, this is a complex and fast moving company working in a highly visible sector.
 
-> Talon export their popular products to thirty-five countries, with distributors all over the world, in Europe, the United States of America, Japan > and Australia. In fact, over seventy percent of our business lies in the export marker. At the moment there are over seventy-five different world champions that ride with the help of Talon parts.
+> Talon export their popular products to thirty-five countries, with distributors all over the world, in Europe, the United States of America, Japan and Australia. In fact, over seventy percent of our business lies in the export marker. At the moment there are over seventy-five different world champions that ride with the help of Talon parts.
 
 In addition to motorcycle parts, Talon also manufacture high quality engineered items for aerospace, automotive and general engineering applications to customer specifications. The company has been in business for over 40 years and is still privately owned.
 
