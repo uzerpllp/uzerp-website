@@ -1,5 +1,6 @@
 ---
 title: "Making Tax Digital for VAT"
+intro: "As far as we are aware, uzERP is the only Open Source system available that is compliant with the HMRC Making Tax Digital for VAT standard which must be used from 1st April 2019."
 draft: "true"
 date: 2019-03-15
 categories: ["Using uzERP"]
@@ -7,12 +8,8 @@ tags: ["Accounting"]
 banner: "img/banners/rawpixel-670711-unsplash.jpg"
 author: "Martyn Shiner"
 ---
-
-uzERP is the only (as far as we are aware) Open Source system available that is compliant with the HMRC Making Tax Digital for VAT standard which must be used from 1st April 2019.
-
-<!--more-->
-
 ## Background
+
 [Making Tax Digital](https://www.gov.uk/government/publications/making-tax-digital/overview-of-making-tax-digital) is the HMRC project to force companies to submit tax returns online. 
 
 From the HMRC website...
@@ -22,8 +19,12 @@ From the HMRC website...
 
 More information on the procedure is here https://www.gov.uk/guidance/use-software-to-submit-your-vat-returns
 
-## Open Source?
+## Open Source
 
 There is a list of suppliers MTD for VAT [here](https://www.gov.uk/guidance/software-for-sending-income-tax-updates) - but as far as we are aware none of them are open source.
 
 uzERP is therefore the __ONLY__ option if you want an Open Source solution.
+
+## Need more information?
+
+If you want to find out more about Making Tax Digital for VAT and how uzERP can keep your records electronically, then do please get in touch via the [Contacts Page](/contact/).
