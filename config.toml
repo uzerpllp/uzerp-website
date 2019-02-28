@@ -1,4 +1,4 @@
-baseurl = "https://uzerp.com/"
+baseurl = "http://www.uzerp.com/"
 title = "uzERP Business Management Software"
 theme = "hugo-universal-theme"
 languageCode = "en-us"
