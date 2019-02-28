@@ -4,7 +4,7 @@ draft: "true"
 date: 2019-06-17
 categories: ["Extending uzERP"]
 tags: ["Reporting", "Apache Superset"]
-banner: "img/banners/weight_progress_custom_1-1024x805.png"
+banner: "weight_progress_custom_1-1024x805.png"
 author: "Martyn Shiner"
 ---
 For a number of years we've been looking for a  way to get enterprise class reporting and analysis for our small business customers.

@@ -4,7 +4,7 @@ draft: "true"
 date: 2019-04-10
 categories: ["Using uzERP"]
 tags: ["Accounting","Reporting"]
-banner: "img/banners/rawpixel-983726-unsplash.jpg"
+banner: "rawpixel-983726-unsplash.jpg"
 author: "Martyn Shiner"
 ---
 One reason for installing uzERP is to get better information for key decision makers.
