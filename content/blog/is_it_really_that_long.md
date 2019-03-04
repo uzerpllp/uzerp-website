@@ -8,7 +8,7 @@ banner: "img/banners/aron-visuals-322314-unsplash.jpg"
 author: "Martyn Shiner"
 ---
 
-Back in June 2012 on our old site I posted a blog post about the longevity of __uzERP__
+Back in June 2012, on our old site, I wrote a blog post about the longevity of __uzERP__
 
 <!--more-->
 
