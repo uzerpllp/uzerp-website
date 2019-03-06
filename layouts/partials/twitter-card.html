@@ -1,0 +1,11 @@
+<meta name="twitter:site" content="@uzerp">
+<meta name="twitter:creator" content="@uzerp">
+{{ if .IsPage }}
+<meta name="twitter:description" content="{{ .Params.intro }}" />
+<meta name="twitter:title" content="{{ .Title }}" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image" content="{{ .Params.banner }}" /> 
+{{ else }}
+<meta name="twitter:title" content="{{ .Site.Title }}" />
+<meta name="twitter:description" content="{{ .Params.intro }}" />
+{{ end }}
