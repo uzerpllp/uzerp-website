@@ -8,7 +8,7 @@
     {{ if $img }}
 	    <meta name="twitter:image" content="{{ $img.Permalink }}" /> 
     {{ else }}
-        <meta name="twitter:image" content="{{ .Site.BaseURL}}{{ .Params.banner }}">
+        <meta name="twitter:image" content="{{ .Site.BaseURL}}{{ .Params.banner }}"/>
     {{end}}
 {{ else }}
     <meta name="twitter:title" content="{{ .Site.Title }}" />
