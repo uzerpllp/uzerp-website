@@ -1,6 +1,6 @@
 ---
 title: "Somerset Buzz"
-intro: "There seems to be a real buzz around doing business in Somerset at the moment.... and its not just from the nuclear power plant at Hinkley Point."
+intro: "There seems to be a real buzz around doing business in Somerset at the moment.... and it's not just from the nuclear power plant at Hinkley Point."
 draft: "false"
 date: 2019-03-07
 categories: ["General"]
@@ -9,7 +9,7 @@ banner: "Somerset_Flag.svg"
 author: "Martyn Shiner"
 ---
 
-If people have heard of Somerset at all its usually in the context of one of the following:
+If people have heard of Somerset at all it's usually in the context of one of the following:
 
 1. Glastonbury Festival;
 2. Hinkley Point Nuclear Power Station;
@@ -49,7 +49,7 @@ Shane and Ben provided the Beer and Pizza, which aided the networking no end and
 During his intro to the session Shane put up a slide highlighting the perceived 'gap' between Bristol in the north and Exeter to the South West "where nothing happens" and made an eloquent and impassioned case as to why a digital/creative community is important for the local economy. Given that the turnout for this first event of 2019 was absolutely fantastic, he's obviously on the right track - if this is anything to go by it shows __Digital Taunton__ has got legs and will provide a valuable focus for the community in the area.
 
 ### In summary
-Somerset is a great place to holiday, its a wonderful place to live, and I hope this post has flagged up that its also a fantastic place to do business with vibrant and supportive communities in many different sectors of the economy.
+Somerset is a great place to holiday, it's a wonderful place to live, and I hope this post has flagged up that it's also a fantastic place to do business, with vibrant and supportive communities in many different sectors of the economy.
 
 If you would like a little more information, Somerset County Council has a useful site where they publish information, facts and figures about Somerset. Although somewhat out of date, we think [this is a useful summary](http://www.somersetintelligence.org.uk/files/Somerset%20Economic%20Dashboard%20January%202017.pdf) for anyone thinking about doing business in the County or larger region.
 
