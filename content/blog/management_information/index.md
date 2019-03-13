@@ -5,7 +5,7 @@ intro: "One of the major reasons for installing uzERP is to get better informati
 
 This blog post looks at the many ways that uzERP provides Management Information for your business."
 draft: "false"
-date: 2019-03-15
+date: 2019-03-18
 categories: ["Using uzERP"]
 tags: ["Accounting","Analytics"]
 banner: "rawpixel-983726-unsplash.jpg"
