@@ -23,7 +23,7 @@ But maybe this is a changing. I've recently been involved with a couple of organ
 
 As an ERP supplier focused on Manufacturing, we've long known about the vibrant and diverse manufacturing sector in Somerset. Indeed our three [case studies](/case-studies) are all Somerset businesses and are an example of the range of manufacturers that are based here.
 
-Recently, though, a number of entrepreneurs and executives from manufacturing companies in the county, facilitated by SWMAS (Somerset Manufacturing Advisory Service), have formed the [Somerset Manufacturers Group](https://www.swmas.co.uk/business-support/somerset-manufacturers-group). From their summary page:
+Recently, though, a number of entrepreneurs and executives from manufacturing companies in the county, facilitated by SWMAS (South West Manufacturing Advisory Service), have formed the [Somerset Manufacturers Group](https://www.swmas.co.uk/business-support/somerset-manufacturers-group). From their summary page:
 
 >Network, collaborate and share best practices with your peers through the Somerset Manufacturers Group.  As a source of knowledge and ideas to drive the growth of your business, get involved and identify opportunities for funding and other business support. SMG also works with other organisations to ensure Somerset manufacturers across all sectors are represented regionally and nationally.
 
@@ -57,7 +57,7 @@ Somerset Manufacturing Group can be contacted on:
 
 <i class="fa fa-phone fa-sm"></i> &nbsp;   &nbsp; <a href="#" data-animate-hover="pulse"> 0845 608 3838</a>
 
-<i class="fa fa-envelope fa-sm"></i> &nbsp;   &nbsp; <a href="mailto:masmg@swmas.co.uk" data-animate-hover="pulse">masmg@swmas.co.uk</a>
+<i class="fa fa-envelope fa-sm"></i> &nbsp;   &nbsp; <a href="mailto:smg@swmas.co.uk" data-animate-hover="pulse">smg@swmas.co.uk</a>
 
 To get in touch with Digital Taunton:
 
