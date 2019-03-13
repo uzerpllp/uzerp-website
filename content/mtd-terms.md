@@ -1,6 +1,5 @@
 ---
 title: uzERP Making Tax Digital Terms and Conditions
-draft: true
 date: 2019-03-12
 ---
 
