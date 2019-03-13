@@ -6,6 +6,15 @@ h2 {
     margin-top: 30px;
 }
 
+figure {
+    margin: 3em 0 2em 0;
+}
+
+figcaption {
+    margin-top: 1em;
+    font-style: italic;
+}
+
 #contact.container ul{
     list-style: none;
 }
