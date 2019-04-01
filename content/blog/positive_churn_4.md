@@ -1,7 +1,7 @@
 ---
 title: "Positive Churn #4 - Don’t Let Your Overheads Grow Faster Than Your Business"
 intro: "Cost control is vital if a growing business is to extract a profit from that growth."
-draft: "true"
+draft: "false"
 date: 2019-04-29
 categories: ["Positive Churn"]
 tags: ["business", "cost control"]

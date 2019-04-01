@@ -1,6 +1,6 @@
 ---
 title: "A Manifesto for Business Improvement"
-draft: "true"
+draft: "false"
 date: 2019-04-01
 categories: ["Positive Churn"]
 tags: ["business", "strategy"]

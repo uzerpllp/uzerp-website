@@ -1,7 +1,7 @@
 ---
 title: "Positive Churn #2 - Cash Belongs in the Bank, Not in the Warehouse"
 intro: "In the second Positive Churn post, Clive Birnie takes issue with large stock (inventory) holdings being a good idea."
-draft: "true"
+draft: "false"
 date: 2019-04-15
 categories: ["Positive Churn"]
 tags: ["business", "cash flow"]

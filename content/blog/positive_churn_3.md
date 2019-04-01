@@ -1,7 +1,7 @@
 ---
 title: "Positive Churn #3 - Variable Labour Cost Does Not Exist"
 intro: "Maybe you shouldn't be including Direct Labour in product costs if you want to win new business..... Clive Birnie, of Positive Churn explains."
-draft: "true"
+draft: "false"
 date: 2019-04-22
 categories: ["Positive Churn"]
 tags: ["business", "cost control"]

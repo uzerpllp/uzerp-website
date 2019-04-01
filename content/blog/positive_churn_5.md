@@ -1,7 +1,7 @@
 ---
 title: "Positive Churn #5 - Cash IS King"
 intro: "_Getting payment terms right_, for customers AND suppliers, is key to managing cashflow. Another Positive Churn post on the importance of understanding a key driver for business success."
-draft: "true"
+draft: "false"
 date: 2019-05-06
 categories: ["Positive Churn"]
 tags: ["business", "cash flow"]
