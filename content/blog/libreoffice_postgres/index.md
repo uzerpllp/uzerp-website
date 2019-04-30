@@ -25,6 +25,7 @@ Some distributions do not install these LibreOffice components by default so you
 ```bash
 user@host:~$ sudo apt install libreoffice-base && libreoffice-sdbc-postgresql
 ```
+Mac and Windows users should go [here](https://www.libreoffice.org/get-help/install-howto/) for installation help.
 
 ### Connecting to a postgreSQL database
 
@@ -32,7 +33,9 @@ LibreOffice uses its own Base application to connect to a postgreSQL backend pro
 
 By selecting File->New->Database from within LibreOffice you are presented with a database setup wizard - this will guide you through the steps to connect to uzERP (or any other database backend)
 
-* __Step 1__ Select database.
+{{< figure src="select_db.png" width="450" alt="select_db.png" caption="Connecting to postgreSQL in LibreOffice">}}
+
+* __Step 1__ Select database - connect to an existing database.
 * __Step 2__ Connection settings - here you must specify a datasource URL in the form postgresql://host:port/database which is site dependent. Usually the port for uzERP is 5432 but note that on a standard postgreSQL install the database server is not set up to answer network connections - this must be configured by your network system administrator.
 * __Step 3__ Set up the user authentication - the uzERP database backend comes with a pre-defined read only user which you should use to connect to the database. There is the opportunity to test the connection parameters at this stage to ensure that you can access the database.
 * __Step 4__ Save and proceed - this section allows you to register the database in LibreOffice - this is very important since if the database is NOT registered it won't be available to the Calc spreadsheet application.
@@ -60,11 +63,13 @@ Additionally you can View all the data sources that you have registered using Vi
 * find individual and groups of rows;
 * paste individual rows into the spreadsheet.
 
-#### Quick start - set up a Pivot Table
+#### Quick start - set up a 'live' Pivot Table
 
 Once you have the sources you want set up you can use the backend data to 'drive' automated analysis using the pivot tables and charting capabilities within calc. This is a subject I'll return to in a later post, but for the moment here's a quick start.....
 
 Go to Data->Pivot Table and check the "Data Source registered in LibreOffice" option on the Select Source Dialog.
+
+{{< figure src="select_datasource.png" width="350" alt="select_datasource.png" caption="Select a uzERP table or query to use as a datasource for a live Pivot Table">}}
 
 The connection dialog will then ask for the the following (in all cases choose from the drop down):
 
@@ -72,7 +77,7 @@ The connection dialog will then ask for the the following (in all cases choose f
 * Type - for postgreSQL select the Table type. You will need to enter a password to connect to uzERP tables;
 * Data source - this will show a list af tables (which will include views as well) available.
 
-Once Calc makes the connection the Pivot Table Layout Dialog will be shown listing the columns from the table you selected - from there a 'live feed' pivot table can be set up and saved for later use.
+Once Calc makes the connection the Pivot Table Layout Dialog will be shown listing the columns from the table you selected - from there a 'live feed' Pivot Table can be set up and saved for later use.
 
 ### Summary
 

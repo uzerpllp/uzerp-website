@@ -1,7 +1,7 @@
 ---
 title: "LibreOffice Pivot Tables"
-intro: "Pivot Tables are an extremely useful analysis tool - they are very flexible and powerful, and can generate valuable insights from large amounts of data if used properly. This post walks you through how to set up a Sales Ledger receipts forecast using a Pivot Table in LibreOffice."
-draft: "true"
+intro: "Pivot Tables are an extremely useful analysis tool - they are very flexible, powerful, and can generate valuable insights from large amounts of data if used properly. This post walks you through how to set up a Sales Ledger Receipts forecast using a Pivot Table in LibreOffice."
+draft: "false"
 date: 2019-05-01
 categories: ["Using Uzerp"]
 tags: ["Spreadsheets", "Cash-Flow", "LibreOffice", "Analytics"]
@@ -11,9 +11,9 @@ author: "Martyn Shiner"
 
 ### Introduction
 
-Pivot Tables are an extremely useful analysis tool - they are very flexible and powerful, and can generate valuable insights from large amounts of data if used properly. This post walks you through how to set up a Sales Ledger receipts forecast using a Pivot Table in LibreOffice.
+Pivot Tables are an extremely useful analysis tool - they are very flexible, powerful, and can generate valuable insights from large amounts of data if used properly. This post walks you through how to set up a Sales Ledger Receipts forecast using a Pivot Table in LibreOffice.
 
-The power of pivot tables comes from using raw data - the example in this blog post is created from a using a csv file generated from uzERP showing open (unallocated) sales ledger transactions. There is an individual row for each invoice, credit note, journal or unallocated receipt meaning that the data is naturally in 'long format' which is required as a building block for pivot tables.
+The power of pivot tables comes from using raw data - the example in this blog post is created using a csv file generated from uzERP example data showing open (unallocated) sales ledger transactions. There is an individual row for each invoice, credit note, journal or unallocated receipt meaning that the data is naturally in 'long format' which is required as a building block for pivot tables.
 
 ### Importing a csv
 
@@ -45,17 +45,17 @@ The sl_openitems.csv we are using is separated by commas with the first row bein
 LibreOffice will attempt to infer the column type (date, number, string etc) from the data although the import process does allow for forcing column types if this auto detection fails. There are also options to select alternative delimiters, the character set etc. For our purpose we can just use the defaults.
 
 ### Creating the Pivot Table
-Once the data is imported click on a cell somewhere within your data, then go to Data–>Pivot Table–>Pivot Table, leave the source as 'Current selection' and click OK. You should get a window that looks like this:
+Once the data is imported click on a cell somewhere within your data, then go to Data–>Pivot Table–>Pivot Table, leave the source as 'Current selection', and click OK. You should get a window that looks like this:
 
 {{< figure src="pivot_table_layout.png" width="450" alt="Pivot Table Layout" caption="Pivot Table Layout in LibreOffice">}}
 
 The box on the right right side of this window lists all of the columns from the csv that we imported earlier. If you are following along with the provided files (see blow) and for some reason you do not get all of the columns, highlight the whole range in the data set before you create the Pivot Table.
 
 #### Table Fields
-To use the columns from the dat set in the Pivot Table you just drag-and-drop each field to the appropriate area in the Layout dialog as follows:
+To use the columns from the data set in the Pivot Table you just drag-and-drop each field to the appropriate area in the Layout dialog as follows:
 
 * Page Fields – You can limit the data to one or several values in one of your columns. For example, we will allow selection by sl_analysis so this field will be dragged to the Page Fields section;
-* Data Fields – This area must contain at least one 'measure'. Columns in this area are aggregated - we can select the 'base_os_value' column which represents the outstanding value of each transaction in base currency (in this case Sterling). The principle is that the column selected will be aggregated for some set of values to be defined in the Row and Column fields;
+* Data Fields – This area must contain at least one 'measure'. Columns in this area are aggregated - we can select the 'base_os_value' column which represents the outstanding value of each transaction in base currency (in this case Sterling). The column selected will be aggregated by the values defined in the Row and Column fields;
 * Row fields – This gives us the aggregation option for rows. In our case we would like to know the total owed by customer so we should drag the customer column from the Available Fields list here;
 * Column Fields – Whatever you put here will be a column in the resulting Pivot Table. We are going to select the pay_year and pay_week columns from the Avaiable Fields which will 'spread' the customer totals by year/week.
 
@@ -84,22 +84,24 @@ The resulting Pivot Table is shown below:
 
 #### Drill Down and Other Options
 
-There are several useful options in the Pivot Table Layout dialog (below the field selection area) - one such is "Enable drill to details". If this option is enabled when you double click on a value in the table and the source rows are automatically pasted into a new tab for you to inspect.
+There are several useful options in the Pivot Table Layout dialog (below the field selection area) - one such is "Enable drill to details". If this option is enabled when you double click on a value in the table the source rows are automatically pasted into a new tab for you to inspect.
 
-There are other Pivot table options in the Layout dialog:
+There are other Pivot table options in the Layout dialog, including:
 
 * Filtering;
 * Ignoring empty rows;
 * Aggregation types - count, average, min/max etc;
 * Disabling grand totals.
 
-By experimenting with the options you can finesse the output to get the analysis that is required.
+By experimenting with the options you can finesse the Pivot Table output to get the analysis that is required.
 
 ### Summary
 
-Cash flow is vital for any business and knowing when your customers are due to pay you for invoiced sales is integral to understanding the dynamics for your business. By exporting transaction data from uzERP and using it in a Pivot Table we can quickly get to grips with who is due to pay and when.
+Cash flow is vital for any business and knowing when your customers are due to pay you for invoiced sales is integral to understanding the dynamics of this vital area of your business. By exporting transaction data from uzERP and using it in a Pivot Table we have shown how you can quickly get to grips with who is due to pay and when.
 
-Hopefully the above has shown how powerful LibreOffice Pivot Tables can be in providing meaningful information from the raw data collected by uzERP as a by product of your day to day processes.
+uzERP has many standard lists that can be exported to csv provide the raw, 'long format' data that can be analysed this way. In addition, because it uses an open source database custom queries can be relatively easily written to provide data with the appropriate columns for specific analysis.
+
+Hopefully the above has shown how powerful LibreOffice Pivot Tables can be in providing meaningful information from the data collected by uzERP as a by product of your improved day to day processes.
 
 ### Resources
 
