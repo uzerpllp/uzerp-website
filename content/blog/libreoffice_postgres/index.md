@@ -1,17 +1,17 @@
 ---
 title: "Integrate LibreOffice and PostgreSQL"
 draft: "false"
-date: 2019-04-30
+date: 2019-05-07
 categories: ["Extending uzERP"]
 tags: ["Accounting","Analytics","LibreOffice","Spreadsheets"]
 banner: "mika-baumeister-703680-unsplash.jpg"
 author: "Martyn Shiner"
 ---
-As noted in a [previous post](/blog/2019/03/18/management_information/), one reason for installing uzERP is to get better information for key decision makers, many of whom like to use spreadsheets to carry out analysis or generate reports.
+As noted in a [this post](/blog/2019/03/18/management_information/), one reason for installing uzERP is to get better information for key decision makers, many of whom like to use spreadsheets to carry out analysis or generate reports. This was also explored in a [another post](/blog/2019/05/01/libreoffice_pivot/) on csv files and LibreOffice Pivot Tables.
 <!--more-->
-Using the open source Calc spreadsheet from [https://www.libreoffice.org/](https://www.libreoffice.org/) and uzERP's backend database [postgreSQL](https://www.postgresql.org/) - "The World's Most Advanced Open Source Relational Database" - this blog post looks at how you can tie the two together to allow users to access information directly with no rekeying.
+Using the open source Calc spreadsheet from [LibreOffice](https://www.libreoffice.org/) and uzERP's backend database [postgreSQL](https://www.postgresql.org/) - "The World's Most Advanced Open Source Relational Database" - this blog post looks at how you can tie the two together to allow users to access information directly with no rekeying.
 
-### Install LibreOffice
+### Install LibreOffice Base
 
 The current version of LibreOffice is 6.2, although the repo for your particular operating system may be slightly behind this. I use Ubuntu 18.04 on my development laptop and I have version: 6.0.7.3.
 
@@ -22,7 +22,7 @@ In order to connect to postgresql the following components must be installed
 
 Some distributions do not install these LibreOffice components by default so you should check that they are there. On Ubuntu they can be installed from the software centre or with the following command at the terminal:
 
-```
+```bash
 user@host:~$ sudo apt install libreoffice-base && libreoffice-sdbc-postgresql
 ```
 
