@@ -42,21 +42,21 @@ The sl_openitems.csv we are using is separated by commas with the first row bein
 * pay_year
 * pay_week
 
-LibreOffice will attempt to infer the column type (date, number, string etc) from the data although the import process does allow for forcing column types if this auto detection fails. There are also options to select alternative delimiters, the character set etc. For our purpose we can just use the defaults.
+LibreOffice will attempt to infer the column type (date, number, string etc) from the data although the import process does allow for forcing column types if the auto-detection fails. There are also options to select alternative column separators, the character set of the data etc. For our purpose we can just use the dialog defaults.
 
 ### Creating the Pivot Table
-Once the data is imported click on a cell somewhere within your data, then go to Data–>Pivot Table–>Pivot Table, leave the source as 'Current selection', and click OK. You should get a window that looks like this:
+Once the data is imported into LibreOffice click on a cell somewhere within your data range, then go to Data–>Pivot Table–>Pivot Table, leave the source as 'Current selection', and click OK. You should get a dialog that looks like this:
 
 {{< figure src="pivot_table_layout.png" width="450" alt="Pivot Table Layout" caption="Pivot Table Layout in LibreOffice">}}
 
-The box on the right right side of this window lists all of the columns from the csv that we imported earlier. If you are following along with the provided files (see blow) and for some reason you do not get all of the columns, highlight the whole range in the data set before you create the Pivot Table.
+The box on the right right side of this dialog lists all of the columns from the csv that we imported earlier. If you are following along with the provided files (see blow) and for some reason you do not get all of the columns, highlight the whole range in the data set before you create the Pivot Table.
 
 #### Table Fields
 To use the columns from the data set in the Pivot Table you just drag-and-drop each field to the appropriate area in the Layout dialog as follows:
 
 * Page Fields – You can limit the data to one or several values in one of your columns. For example, we will allow selection by sl_analysis so this field will be dragged to the Page Fields section;
 * Data Fields – This area must contain at least one 'measure'. Columns in this area are aggregated - we can select the 'base_os_value' column which represents the outstanding value of each transaction in base currency (in this case Sterling). The column selected will be aggregated by the values defined in the Row and Column fields;
-* Row fields – This gives us the aggregation option for rows. In our case we would like to know the total owed by customer so we should drag the customer column from the Available Fields list here;
+* Row fields – This gives us the aggregation option for rows. In our case we would like to know the total owed by each customer so we should drag the customer column from the Available Fields list here;
 * Column Fields – Whatever you put here will be a column in the resulting Pivot Table. We are going to select the pay_year and pay_week columns from the Avaiable Fields which will 'spread' the customer totals by year/week.
 
 {{< figure src="pivot_table_layout2.png" width="450" alt="Pivot Table Layout" caption="Pivot Table Layout with fields selected">}}
@@ -70,9 +70,9 @@ LibreOffice creates a new tab with the Pivot Table we defined. The example shows
 The Page Field (sl_analysis) allows you to select one, several, or all categories of the selected column - in our case we could select only Tier 1 customers and the table is recalculated to show values for only this.
 
 #### Changing the Layout
-While the table above is very useful we might want to improve things a little.
+While the table above is useful we might want to improve things a little.
 
-If you right-click on any cell within the pivot table (Cells A1 to K27 in the above example) a menu of options opens - select “Edit Layout…” and the Layout dialog will open again. You can change things simply by dragging fields to where you want them. You can drag a field from one layout area to another, you can add a field you didn’t have before, or you can remove a field by dragging it outside of the layout area.
+If you right-click on any cell within the pivot table (Cells A1 to K27 in the above example) a menu of options opens - select 'Edit Layout' and the Layout dialog will open again. You can change things simply by dragging fields to where you want them. You can drag a field from one layout area to another, you can add a field you didn’t have before, or you can remove a field by dragging it outside of the layout area.
 
 Rather than having the sl_analysis as a Page Field we might want to show customers grouped 'within' each sl_analysis code and have a subtotal for each group. By dragging sl_analysis to the Row Fields area we can do this. Make sure the sl_analysis is above customer to achieve this result. To generate the sub-total on sl_analysis double click the column name and set the Subtotals option to 'Automatic' to generate the subtotal.
 
@@ -99,9 +99,9 @@ By experimenting with the options you can finesse the Pivot Table output to get 
 
 Cash flow is vital for any business and knowing when your customers are due to pay you for invoiced sales is integral to understanding the dynamics of this vital area of your business. By exporting transaction data from uzERP and using it in a Pivot Table we have shown how you can quickly get to grips with who is due to pay and when.
 
-uzERP has many standard lists that can be exported to csv provide the raw, 'long format' data that can be analysed this way. In addition, because it uses an open source database custom queries can be relatively easily written to provide data with the appropriate columns for specific analysis.
+uzERP has many standard lists that can be exported to csv provide the raw, 'long format' data that can be analysed this way. In addition, because it uses an open source database and you have full access to your data, custom queries can be relatively easily written to provide data sets with the appropriate columns for specific analysis required by your organisation.
 
-Hopefully the above has shown how powerful LibreOffice Pivot Tables can be in providing meaningful information from the data collected by uzERP as a by product of your improved day to day processes.
+Hopefully this very brief walk through has shown how powerful LibreOffice Pivot Tables can be in providing meaningful information from the data collected by uzERP as a by product of your improved day to day processes.
 
 ### Resources
 
