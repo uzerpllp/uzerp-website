@@ -1,7 +1,7 @@
 ---
 title: "Integrate LibreOffice and PostgreSQL"
 draft: "false"
-date: 2019-05-07
+date: 2019-05-06
 categories: ["Extending uzERP"]
 tags: ["Accounting","Analytics","LibreOffice","Spreadsheets"]
 banner: "mika-baumeister-703680-unsplash.jpg"
