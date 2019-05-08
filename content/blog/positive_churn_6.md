@@ -1,8 +1,8 @@
 ---
 title: "Positive Churn #6 - Business is Marketing / Marketing is Business"
 intro: "What do your actions say about your business? And what __IS__ marketing, anyway? Clive Birnie of Positive Churn argues that every decision and action communicates and is therefore __Marketing__."
-draft: "true"
-date: 2019-05-20
+draft: "false"
+date: 2019-05-22
 categories: ["Positive Churn"]
 tags: ["Business", "Marketing", "Strategy"]
 banner: "img/banners/logo.svg"

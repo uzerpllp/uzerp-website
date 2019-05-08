@@ -3,7 +3,7 @@ title: "Apache Superset"
 draft: "true"
 date: 2019-06-17
 categories: ["Extending uzERP"]
-tags: ["Reporting", "Apache Superset"]
+tags: ["Analytics", "Apache Superset"]
 banner: "weight_progress_custom_1-1024x805.png"
 author: "Martyn Shiner"
 ---
@@ -13,7 +13,6 @@ From the [Apache Superset ]((https://github.com/apache/incubator-superset/blob/m
 
 __WOW!__
 
-So how can we use this in conjunction with uzERP to help drive your business forward?
 <!--more-->
 
 ## Introduction to Apache Superset 
@@ -34,10 +33,20 @@ The Github [introduction to Superset](https://github.com/apache/incubator-supers
 > * Deep integration with Druid allows for Superset to stay blazing fast while slicing and dicing large, realtime datasets
 > * Fast loading dashboards with configurable caching
 
-Crucially Superset will 'talk' directly to PostgreSQL, the database backend used by uzERP.
+Crucially Superset will 'talk' directly to PostgreSQL, the database backend used by uzERP. So how can we use this in conjunction with uzERP to help drive your business forward?
 
-## Installation
+## Installation & set up
 
-Installation of Superset is not as straightforward as Redash.
+Superset is a Python 'flask' app  - There are detailed installation instructions here to get the superset application up and running.
 
-Assuming an 18.04 Ubuntu server....
+If you want a quick start, [Steve Blamey](mailto:sblamey@uzerp.com) of this parish has developed a Vagrant file and shell provisioner which will get you up and running on Ubuntu 18.04 in no time - go here for more information https://github.com/steveblamey/vagrant-superset
+
+After installation you need to go to the data sources screen one benefit of 
+
+Integratio with uzERP - o
+
+### Example dashboard creation - 
+
+uzERP comes with many pre built queries in the 'reports' schema. These can be used in Superset visualizations
+
+__And finally.... if you want to know more about how we can help you improve your business through better systems and improved information then do please get in touch via the [Contacts Page](/contact/).__
