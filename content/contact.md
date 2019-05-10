@@ -27,6 +27,7 @@ Which means you can talk to a human rather than filling in  a form.
 
 #### Other ways to keep up to speed or get in touch
 
-*  <i class="fa fa-github fa-lg"></i> &nbsp;   &nbsp; If you are a developer you can fork us on [github](https://github.com/uzerpllp/uzerp)
-*  <i class="fa fa-rss fa-lg"></i> &nbsp;   &nbsp; There's an [RSS feed](/feed.xml) of blog posts and things
-*   <i class="fa fa-twitter fa-lg"></i> &nbsp;   &nbsp;  And finally, if you like that sort of thing, then you could follow us on [twitter](https://twitter.com/uzerp) - interesting snippets assured
+*  <i class="fab fa-github fa-lg"></i> &nbsp;   &nbsp;If you are a developer you can fork us on [GitHub](https://github.com/uzerpllp/uzerp)
+*  <i class="fa fa-rss fa-lg"></i> &nbsp;   &nbsp;There's an [RSS feed](/feed.xml) of blog posts and things
+*  <i class="fab fa-mailchimp fa-lg"></i> &nbsp;   &nbsp;If you want to be kept up to date by email sign up to our [Mailing List](http://eepurl.com/dhSVIv)
+*   <i class="fab fa-twitter fa-lg"></i> &nbsp;   &nbsp;And finally, if you like that sort of thing, then you could follow us on [Twitter](https://twitter.com/uzerp) - interesting snippets assured
