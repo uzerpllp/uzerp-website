@@ -1,4 +1,0 @@
-+++
-title = "Newsletters"
-description = "Newsletters"
-+++
