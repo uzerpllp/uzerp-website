@@ -34,6 +34,21 @@ uzERP LLP maintains application credentials that allow your uzERP software to in
 
 From time to time, we may change our application credentials. When we do this, we will update all supported customer systems with the new credentials. You will need to re-authorise uzERP to submit your VAT returns after we have changed our credentials.
 
+## Fraud Protection Headers
+
+By [law](http://www.legislation.gov.uk/uksi/2019/360/made) uzERP must send additional information called Fraud Prevention Headers when submitting VAT returns to HMRC. The headers may contain personal information and the HMRC have published a [Data Protection Impact Assessment](https://developer.service.hmrc.gov.uk/api-documentation/assets/content/documentation/3f4c263faa8231bea05c1826b7f6b81c-TxM%20DPIA%20v3%201%20Public.pdf).
+
+Fraud Prevention Headers sent by uzERP:
+
+Header Name | Content
+---- | ----
+Gov-Client-Connection-Method | `OTHER_DIRECT`
+Gov-Client-Device-ID | `clientuuid` (see above)
+Gov-Client-User-IDs | uzERP user name of the logged-in user
+Gov-Client-Timezone | Current timezone offset from UTC, e.g. `UTC+01:00`
+Gov-Client-User-Agent | Operating system information, e.g. `Linux 5.1.6-300.fc30.x86_64 #1 SMP Fri May 31 17:43:23 UTC 2019 x86_64`
+Gov-Vendor-Version | uzERP version number
+
 ## Disclaimer
 
 uzERP is free software: you can redistribute it and/or modify
