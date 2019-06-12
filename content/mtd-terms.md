@@ -3,7 +3,7 @@ title: uzERP Making Tax Digital Terms and Conditions
 date: 2019-03-12
 ---
 
-*Last Updated: 12 March 2019*
+*Last Updated: 13 June 2019*
 
 **Defintions**
 
@@ -43,7 +43,7 @@ Fraud Prevention Headers sent by uzERP:
 Header Name | Content
 ---- | ----
 Gov-Client-Connection-Method | `OTHER_DIRECT`
-Gov-Client-Device-ID | `clientuuid` (see above)
+Gov-Client-Device-ID | `clientuuid`, a unique id provided by us that identifies your uzERP installation
 Gov-Client-User-IDs | uzERP user name of the logged-in user
 Gov-Client-Timezone | Current timezone offset from UTC, e.g. `UTC+01:00`
 Gov-Client-User-Agent | Operating system information, e.g. `Linux 5.1.6-300.fc30.x86_64 #1 SMP Fri May 31 17:43:23 UTC 2019 x86_64`
