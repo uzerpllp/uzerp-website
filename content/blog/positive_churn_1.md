@@ -1,10 +1,10 @@
 ---
 title: "Positive Churn #1 - You Can't Grow Your Way Out Of A Hole"
-intro: "When a business is struggling the instinct is to grow sales, but is that right? In this first post, Clive Birnie argues that you should be brave and *Shrink to Survivie*!"
+intro: "When a business is struggling the instinct is to grow sales, but is that right? In this first post, Clive Birnie argues that you should be brave and *Shrink to Survive*!"
 draft: "false"
 date: 2019-04-08
 categories: ["Positive Churn"]
-tags: ["business", "strategy"]
+tags: ["business", "strategy", "cash flow"]
 banner: "img/banners/logo.svg"
 author: "Clive Birnie"
 ---
