@@ -45,7 +45,7 @@ This sort of data should 'fall out' of the day to day business process..... from
 By assessing each of these sources it becomes easier to formulate a plan that should start with some simpler, low hanging fruit and progresses to more complex requirements. One approach is to begin by focusing on a single functional area (perhaps inventory management) and generate the data to answer the question “what happened?” and "where are we?". If the data is not readily available, then steps can be taken to implement systems that collect it during normal workflow, rather than having to (for example) set up a special one-off collection methodology by inputting into a spreadsheet.
 
 **External**
-Social media, geo-spatial and weather data, plus insights from paid sources such as Nielsen and D&B are also useful when 'bended' with internally generated data.
+Social media, geo-spatial and weather data, plus insights from paid sources such as Nielsen and D&B are also useful when 'blended' with internally generated data.
 
 #### Software
 
@@ -75,6 +75,6 @@ From there, we would progress to developing some drill down capabilities into th
 
 A more sophisticated analyses, that blends different data sources (internal and external), in order to answer specific business questions and provide real-time insight into performance might be the next step - a cashflow forecast is a perfect example of this type of analysis, being based on internal information (upcoming payables, receivables) with forecast delivery patterns and forward currency rates.
 
-Finally, we might move on to more advanced predictive analyses and data sources (e.g. external market data) and incorporate analytic results into the business processes to ensure actions are taken based on the analysis produced. A good example would be a sales forecast model that combines internal sales/quote conversion history with information from field sales personnel via a CRM system, and external data sources such as a customer 'extranet' or Nielsen Market data. This forecast data could then be used to as an input to a capacity planning system to plan forward loading in manufacturing/logistics, improving on time delivery.
+Finally, we might move on to more advanced predictive analyses and data sources (e.g. external market data) and incorporate analytic results into the business processes to ensure actions are taken based on the analysis produced. A good example would be a sales forecast model that combines internal sales/quote conversion history with information from field sales personnel via a CRM system, and external data sources such as a customer 'extranet' or Nielsen Market data. This forecast data could then be used as an input to a capacity planning system to plan forward loading in manufacturing/logistics, improving on time delivery.
 
 __And finally.... if you want to know more about how we can help you improve your business through better systems and improved information then do please get in touch via the [Contacts Page](/contact/).__
