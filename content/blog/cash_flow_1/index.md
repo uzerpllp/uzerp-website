@@ -34,7 +34,7 @@ Assuming you are a slightly bigger entity with proper sales and purchase ledgers
 1. look at the statement for the previous working day and make sure your accounting system reflects **ALL** payments and receipts - some (especially overseas receipts) may be posted by the bank after close of business so it is important to check
 2. confirm the closing balance from the previous day tallies with your accounting system
 3. check the current day's postings and enter these so that you have an up to date balance as at NOW in your accounting system - this way you can make sure you haven't exceeded your overdraft facility if you have one or work out what you need to draw down from factoring (see below)
-4. take a look at 'next working day transactions' so you can see what is upcoming - most bank systems have this facility which will tell you what will be posted tomorrow, which is especially helpful if you have a customer who pays by BACS (a UK payment system that uses a on a three day cycle to clear) or you pay significant items by direct debit or standing order
+4. take a look at 'next working day transactions' so you can see what is upcoming - most bank systems have this facility which will tell you what will be posted tomorrow, which is especially helpful if you have a customer who pays by BACS (a UK payment system that uses a three day cycle to clear) or you pay significant items by direct debit or standing order
 
 When you get a statement from the bank make sure you do a bank reconciliation within your accounting software, especially if you pay or receive cheques that take a few days to clear. If you have lots of transactions I'd suggest doing this more often... perhaps weekly or at a period end.
 
