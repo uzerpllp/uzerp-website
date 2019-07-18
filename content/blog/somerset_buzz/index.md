@@ -61,8 +61,8 @@ Somerset Manufacturing Group can be contacted on:
 
 To get in touch with Digital Taunton:
 
-<i class="fa fa-twitter fa-sm"></i> &nbsp;   &nbsp; <a href="https://twitter.com/DigitalTaunton" data-animate-hover="pulse">@DigitalTaunton Twitter feed</a>
+<i class="fab fa-twitter fa-sm"></i> &nbsp;   &nbsp; <a href="https://twitter.com/DigitalTaunton" data-animate-hover="pulse">@DigitalTaunton Twitter feed</a>
 
-<i class="fa fa-facebook fa-sm"></i> &nbsp;   &nbsp; <a href="https://www.facebook.com/groups/DigitalTaunton/" data-animate-hover="pulse">Digital Taunton Facebook Group</a>
+<i class="fab fa-facebook fa-sm"></i> &nbsp;   &nbsp; <a href="https://www.facebook.com/groups/DigitalTaunton/" data-animate-hover="pulse">Digital Taunton Facebook Group</a>
 
 And finally.... if you want to know more about how we can help you improve your business through better systems and improved information then do please get in touch via the [Contacts Page](/contact/).

@@ -1,7 +1,7 @@
 weight: 2
 name: "Improve Cashflow"
 description: "Cash __REALLY__ is king and cashflow is the lifeblood of any business, large or small."
-icon: "fa fa-gbp"
+icon: "fas fa-pound-sign"
 color: "green"
 links:
 content: >

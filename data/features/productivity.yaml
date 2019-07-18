@@ -1,6 +1,6 @@
 weight: 4
 name: "Increase Productivity"
-icon: "fa fa-line-chart"
+icon: "fas fa-chart-line"
 color: "green"
 description: "Work more efficiently with standardized business processes and information."
 content: >
