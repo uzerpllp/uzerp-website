@@ -38,6 +38,6 @@ Which means you can talk to a human rather than filling in  a form.
 
 *  <i class="fa fa-rss fa-lg"></i> &nbsp;   &nbsp;There's an [RSS feed](/feed.xml) of blog posts and things
 
-*  <i class="fab fa-mailchimp fa-lg"></i> &nbsp;   &nbsp;If you want to be kept up to date by email sign up to our [Mailing List](http://eepurl.com/dhSVIv)
+*  <i class="fas fa-envelope-open-text fa-lg"></i></i> &nbsp;   &nbsp;If you want to be kept up to date by email sign up to our [Newsletter](https://buttondown.email/uzerp)
 
 *   <i class="fab fa-twitter fa-lg"></i> &nbsp;   &nbsp;And finally, if you like that sort of thing, then you could follow us on [Twitter](https://twitter.com/uzerp) - interesting snippets assured
