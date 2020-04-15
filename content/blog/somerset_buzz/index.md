@@ -5,7 +5,7 @@ draft: "false"
 date: 2019-03-07
 categories: ["General"]
 tags: ["Business", "Other"]
-banner: "Somerset_Flag.svg"
+banner: "Somerset_Flag.png"
 author: "Martyn Shiner"
 ---
 
