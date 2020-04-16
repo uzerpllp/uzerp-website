@@ -101,7 +101,8 @@
   {{ $medium := .Resize "1200x675" }}
   <meta name="twitter:image" content="{{ $medium.Permalink }}">
   {{ end }}
-  <meta name="twitter:description" content="{{ .Params.intro | truncate 200 }}">
+  {{ $intro := .Params.intro }}
+  <meta name="twitter:description" content="{{ with $intro }}{{. | truncate 200 | markdownify}}{{ else }}{{ .Summary }}{{ end }}">
   {{ with .Param "twitter_author" }}<meta name="twitter:creator" content="@{{ . }}">{{ end }}
 
 </head>
