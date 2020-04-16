@@ -102,7 +102,7 @@ baseName = "feed"
     #email = "your@email.com"
 
     about_us = "uzERP is an Open Source modular business system designed for Small and Medium sized Enterprises (SME)."
-    copyright = "Copyright &copy; 2019 uzERP LLP, all rights reserved."
+    copyright = "uzERP LLP, all rights reserved."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
