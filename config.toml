@@ -101,7 +101,7 @@ baseName = "feed"
     # Enable the contact form by entering your Formspree.io email
     #email = "your@email.com"
 
-    about_us = "<p>uzERP is an Open Source modular business system designed for Small and Medium sized Enterprises (SME).</p>"
+    about_us = "uzERP is an Open Source modular business system designed for Small and Medium sized Enterprises (SME)."
     copyright = "Copyright &copy; 2019 uzERP LLP, all rights reserved."
 
     # Format dates with Go's time formatting
@@ -109,15 +109,12 @@ baseName = "feed"
 
     logo = "img/logo.png"
     logo_small = "img/logo.png"
-    address = """<p><strong>uzERP LLP</strong>
-        <br>Showground Road,
-        <br>Severn Delta Building,
-        <br>Bridgwater,
-        <br>Somerset,
-        <br>TA6 6AJ
-        <br>
-        <strong>Great Britain</strong>
-      </p>
+    address = """**uzERP LLP** - 
+        Showground Road,
+        Severn Delta Building,
+        Bridgwater,
+        Somerset,
+        TA6 6AJ United Kingdom
       """
     #latitude = "51.1098937"
     #longitude = "2.9921611"
