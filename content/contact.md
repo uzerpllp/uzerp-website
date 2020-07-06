@@ -25,8 +25,6 @@ Which means you can talk to a human rather than filling in  a form.
 
 *  <i class="fa fa-envelope fa-lg"></i> &nbsp;   &nbsp; <a href="mailto:sblamey@uzerp.com" data-animate-hover="pulse">sblamey@uzerp.com</a>
 
-*  <i class="fa fa-key fa-lg"></i> &nbsp;   &nbsp;  <a href="https://keybase.io/steveblamey#show-public" data-animate-hover="pulse">steveblamey</a>
-
 <br><br>
 
 #### Other ways to keep up to speed or get in touch.....
