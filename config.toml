@@ -172,9 +172,12 @@ baseName = "feed"
     enable = true
     icon = "fa fa-info"
     title = "Take uzERP for a spin"
-    subtitle = """Take a closer look at uzERP<br>Username: admin,  Password: admin"""
-    link_url = "https://demo.uzerp.com/"
-    link_text = "Go to Demo"
+    subtitle1 = """Take a closer look at uzERP using the online demo<br>Login credentials are: <br>Username: admin,  Password: admin"""
+    link_url1 = "https://demo.uzerp.com/"
+    link_text1 = "Go to uzERP Demo"
+    subtitle2 = """Or use the development CLI which provides an easy way to get a local uzERP development or demo environment up and running quickly"""
+    link_url2 = "https://github.com/uzerpllp/uzerp-dev-cli"
+    link_text2 = "Go to uzerp-dev-cli"
 
 [params.clients]
     enable = true
