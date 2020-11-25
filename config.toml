@@ -115,13 +115,7 @@ baseName = "feed"
 
     logo = "img/logo.png"
     logo_small = "img/logo.png"
-    address = """**uzERP LLP** - 
-        Showground Road,
-        Severn Delta Building,
-        Bridgwater,
-        Somerset,
-        TA6 6AJ United Kingdom
-      """
+    address = "uzERP LLP - Showground Road, Severn Delta Building, Bridgwater, Somerset, TA6 6AJ United Kingdom"
     #latitude = "51.1098937"
     #longitude = "2.9921611"
 
