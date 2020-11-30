@@ -71,9 +71,9 @@ This is a shame, as I do believe that the NoCode/LoCode solutions, based on web 
 
 ### Summary
 
-The Citizen Developer is here to stay - organisations of all sizes have their own unique way of doing things and will always need extra 'apps' built outside of the core to get the job done ina timely manner.
+The Citizen Developer is here to stay - organisations of all sizes have their own unique way of doing things and will always need extra 'apps' built outside of the core to get the job done in a timely manner.
 
-In a corporate environment the IT department's 'pro' developers have a role to play in avoiding the patchwork of spreadsheets -  managing platforms, documenting APIs, maing alternative tools available and facilitating the Citizen Developer community to foster best practice is extremely important as, without governance, it is very easy to end up with a new hot mess replacing the patchwork of spreadsheets. Replacing one form of Shadow IT with another and, in the words of my colleague [Steve Blamey](https://uk.linkedin.com/in/steveblamey), ending up with a "Bring Your Own Disaster" is not where we want to be.
+In a corporate environment the IT department's 'pro' developers have a role to play in avoiding the patchwork of spreadsheets -  managing platforms, documenting APIs, making alternative tools available and facilitating the Citizen Developer community to foster best practice is extremely important as, without governance, it is very easy to end up with a new hot mess replacing the patchwork of spreadsheets. Replacing one form of Shadow IT with another and, in the words of my colleague [Steve Blamey](https://uk.linkedin.com/in/steveblamey), ending up with a "Bring Your Own Disaster" is not where we want to be.
 
 My feeling is that, alongside data science languages/tools like R and Python, NoCode/LoCode systems will mature to the point where they become as important to the Citizen Developer in the next few years as the Spreadsheet based solution has been in the past. If that leads to better, more integrated, solutions to business problems then this has to be a benefit for organisations large and small.
 
