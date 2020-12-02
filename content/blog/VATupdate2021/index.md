@@ -4,7 +4,7 @@ intro: "As far as we are aware, uzERP is the only Open Source system available t
 
 We have updated the VAT module for 2021 to allow for the postponed VAT procedures available from January 1st 2021."
 draft: "false"
-date: 2020-12-01
+date: 2020-12-02
 categories: ["Using uzERP"]
 tags: ["Accounting"]
 banner: "img/banners/rawpixel-670711-unsplash.jpg"
