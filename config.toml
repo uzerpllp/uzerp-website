@@ -50,9 +50,9 @@ baseName = "feed"
     weight = 3
 
 [[menu.main]]
-    name = "Documentation"
+    name = "Support"
     identifier = "doc"
-    url  = "https://doc.uzerp.com"
+    url  = "https://support.uzerp.com"
     weight = 4
 
 [[menu.main]]
