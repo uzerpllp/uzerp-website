@@ -166,9 +166,14 @@ baseName = "feed"
     enable = true
     icon = "fa fa-info"
     title = "Take uzERP for a spin"
-    subtitle1 = """Take a closer look at uzERP using the online demo<br>Login credentials are: <br>Username: admin,  Password: admin"""
-    link_url1 = "https://demo.uzerp.com/"
-    link_text1 = "Go to uzERP Demo"
+    subtitle0 = """Take a closer look at uzERP using the online demo"""
+    link_url0 = "https://demo.uzerp.com/"
+    link_text0 = "Go to uzERP Demo"
+
+    subtitle1 = """Get uzERP on Digital Ocean<br>You can install uzERP with one click using the pre-configured droplet from the Digital Ocean Marketplace.<br>This will give you a fully working system for as little as $5 per month. """
+    link_url1= "https://marketplace.digitalocean.com/apps/uzerp?refcode=5f54dd12ba57"
+    link_text1 = "Create a uzERP droplet"
+    
     subtitle2 = """Or use the development CLI which provides an easy way to get a local uzERP development or demo environment up and running quickly"""
     link_url2 = "https://github.com/uzerpllp/uzerp-dev-cli"
     link_text2 = "Go to uzerp-dev-cli"
