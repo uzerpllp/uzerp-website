@@ -21,9 +21,7 @@ Which means you can talk to a human rather than filling in  a form.
 
 ### Steve Blamey - Lead Developer
 
-*  <i class="fa fa-phone fa-lg"></i> &nbsp;   &nbsp; <a href="#" data-animate-hover="pulse"> +44 (0)1822 678331</a>
-
-*  <i class="fa fa-envelope fa-lg"></i> &nbsp;   &nbsp; <a href="mailto:sblamey@uzerp.com" data-animate-hover="pulse">sblamey@uzerp.com</a>
+* <i class="fa fa-envelope fa-lg"></i> &nbsp;   &nbsp; <a href="mailto:sblamey@uzerp.com" data-animate-hover="pulse">sblamey@uzerp.com</a>
 
 <br>
 
