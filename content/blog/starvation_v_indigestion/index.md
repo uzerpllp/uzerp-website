@@ -15,7 +15,7 @@ author: "Martyn Shiner"
 
 Last week I retweeted....
 
-{{< tweet 1124170977854857216 >}}
+{{< tweet user="uzerp" id="1124170977854857216" >}}
 
 When I saw the original tweet by [@allonriaz](https://twitter.com/allonraiz) I retweeted with the comment:
 

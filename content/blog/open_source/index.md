@@ -12,7 +12,7 @@ In a recent tweet [@SiriusOpen](https://twitter.com/SiriusOpen) tweeted a link t
 
 <!--more-->
 
-{{< tweet 1306654904128212992>}}
+{{< tweet user="uzerp" id="1306654904128212992" >}}
 
 [@JeroenBaten](https://twitter.com/JeroenBaten) replied to the tweet.... "Wait, what are the cons?" so I thought I'd take a closer look.
 
